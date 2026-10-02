@@ -1,6 +1,6 @@
 # Marca Studio
 
-Aplicación de escritorio independiente de `veroweb` para crear logos y aplicar marcas de agua a imágenes.
+Aplicación de escritorio para crear logos y aplicar marcas de agua a imágenes.
 
 ## Desarrollo
 
